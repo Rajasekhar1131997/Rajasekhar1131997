@@ -15,7 +15,7 @@ Skilled in **ReactJS, JavaScript, Oracle EBS, Python, SQL, and PL/SQL**, I thriv
 - **Operating Systems & Platforms**: Windows, Ubuntu, Linux, macOS, Android, MSOffice, Google Workspace, SharePoint
 
 ## 📫 Connect with Me  
-[🌍 Portfolio Website](https://www.rajasekharreddyk.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajasekharreddyk/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Rajasekhar1131997)  
 📧 Email: rajakolagotla@gmail.com
