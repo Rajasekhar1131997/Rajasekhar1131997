@@ -16,8 +16,6 @@ Skilled in **ReactJS, JavaScript, Oracle EBS, Python, SQL, and PL/SQL**, I thriv
 
 ## 📫 Connect with Me  
 [🌍 Portfolio Website](https://www.rajasekharreddyk.com)  
-[💼 LinkedIn](https://www.linkedin.com/in/rajasekharreddyk)  
-[🐙 GitHub](https://github.com/Rajasekhar1131997)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajasekharreddyk)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajasekhar1131997)
 📧 Email: rajakolagotla@gmail.com
-
-[![LinkedIn](https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg)](https://www.linkedin.com/in/your-profile)
