@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Rajasekhar Reddy Kolagotla! 👋  
 
-<!--
-**Rajasekhar1131997/Rajasekhar1131997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Web Developer | Cloud Enthusiast**  
 
-Here are some ideas to get you started:
+I'm passionate about developing scalable applications and working with cloud technologies.  
+Skilled in **ReactJS, JavaScript, Oracle EBS, Python, SQL, and PL/SQL**, I thrive on solving engineering challenges.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages**: Python, Java, C, JavaScript, PL/SQL
+- **Data Analytics & Reporting**: Tableau, Power BI, Oracle Reports, Oracle Forms Developer, XML/BI Publisher
+- **Frameworks & Web Technologies**: React.js, Django, HTML, CSS, JavaScript, Node.js, Flask
+- **Data Management & Databases**: Oracle APEX, Oracle EBS, SQL Developer, Toad, MySQL, MS SQL, MongoDB, Hadoop, Apache Hive, PostgreSQL SQLite, Oracle Autonomous DB
+- **Cloud & DevOps**: AWS, Azure
+- **Version Control**: Git, GitHub
+- **Operating Systems & Platforms**: Windows, Ubuntu, Linux, macOS, Android, MSOffice, Google Workspace, SharePoint
+
+## 📫 Connect with Me  
+[🌍 Portfolio Website](https://www.rajasekharreddyk.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/rajasekharreddyk)  
+[🐙 GitHub](https://github.com/Rajasekhar1131997)  
+📧 Email: rajakolagotla@gmail.com
