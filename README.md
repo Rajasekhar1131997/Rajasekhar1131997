@@ -14,7 +14,7 @@ Skilled in **ReactJS, JavaScript, Oracle EBS, Python, SQL, and PL/SQL**, I thriv
 - **Version Control**: Git, GitHub
 - **Operating Systems & Platforms**: Windows, Ubuntu, Linux, macOS, Android, MSOffice, Google Workspace, SharePoint
 
-[![Rajasekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasekhar1131997)](https://github.com/anuraghazra/github-readme-stats)
+[![Rajasekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajasekhar1131997&theme=dark&hide=rank)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me  
 
