@@ -2,7 +2,7 @@
 
 💻 **Software Engineer | Full Stack Developer | Cloud-Native Systems Enthusiast**  
 
-I'm **Rajasekhar Reddy Kolagotla**, a **Full Stack Software Engineer** with **4+ years of experience** delivering secure, scalable, and cloud-native applications across **fintech, healthcare, and IT services**. I specialize in Java, Spring Boot, React.js, and AWS, and have led development of high-impact features like real-time banking APIs, KYC workflows, and microservice deployments. I thrive in Agile teams, enjoy owning features end-to-end, and love solving backend challenges while crafting responsive UIs. I’m driven by clean code, automation, and building systems that actually make users' lives better.
+I'm **Rajasekhar Reddy Kolagotla**, a **Full Stack Software Engineer** with **5+ years of experience** delivering secure, scalable, and cloud-native applications across **fintech, healthcare, and IT services**. I specialize in Java, Spring Boot, React.js, and AWS, and have led development of high-impact features like real-time banking APIs, KYC workflows, and microservice deployments. I thrive in Agile teams, enjoy owning features end-to-end, and love solving backend challenges while crafting responsive UIs. I’m driven by clean code, automation, and building systems that actually make users' lives better.
   
 
 ## 🔧 Technologies & Tools
