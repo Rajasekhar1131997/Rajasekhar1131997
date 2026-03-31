@@ -6,7 +6,7 @@ I'm **Rajasekhar Reddy Kolagotla**, a **Full Stack Software Engineer** with **5+
   
 
 ## 🔧 Technologies & Tools
-Programming Languages: Java, JavaScript, Python, TypeScript, Bash, Shell, C#, C++, Groovy
+Programming Languages: Java, JavaScript, Python, TypeScript, Bash, Shell, Groovy
 
 Frontend Technologies: HTML5, CSS3, Bootstrap, JavaScript, React, Redux, React Hooks, Angular, NodeJS, AJAX
 
@@ -34,6 +34,6 @@ Operating Systems: Linux, UNIX, Windows
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajasekharreddyk/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajasekhar-r-k/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Rajasekhar1131997)  
 📧 Email: rajasekharrkolagotla@gmail.com
